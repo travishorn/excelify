@@ -2,6 +2,8 @@
 
 Converts CSV files to formatted Excel files.
 
+![Demo](./demo.png)
+
 ## Features
 
 - Converts CSV files to Excel (.xlsx) format
